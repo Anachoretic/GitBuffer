@@ -1,4 +1,4 @@
 ---
 title: GNOME
-icon: gnome
+icon: GNOME
 ---
