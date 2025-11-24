@@ -1,16 +1,4 @@
 ---
-description: Test
-icon: memory
+title: GNOME
+icon: desktop-classic
 ---
-
-# Page 2
-
-
-
-1.
-
-📗
-
-1.
-
-Page 2Enter your content here…​
