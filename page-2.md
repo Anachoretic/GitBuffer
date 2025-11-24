@@ -1,4 +1,4 @@
 ---
 title: GNOME
-icon: GNOME
+icon: gamepad modern
 ---
